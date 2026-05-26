@@ -1,0 +1,16 @@
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+
